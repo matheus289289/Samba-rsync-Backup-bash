@@ -150,7 +150,7 @@ Exemplo: backup de segunda a sexta às 22h e limpeza às 06h:
 
 ## Autor
 
-Desenvolvido por **Matheus Gomes**.
+Desenvolvido por **Matheus Tavares Gomes**.
 
 ## Licença
 
